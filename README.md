@@ -1,2 +1,3 @@
 # Machine-Learning-Projects
-In this repository, Churn model prediction is done by using Artificial Neural Network (ANN).
+In this repository, There are following Machine Learning Projects are:
+1. Churn Modelling Predictions
