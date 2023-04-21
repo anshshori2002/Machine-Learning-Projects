@@ -4,3 +4,4 @@ In this repository, There are following Machine Learning Projects are:
 2. Car price Prediction
 3. Student Marks Prediction
 4. Book Recommender System.
+5. CNN Projects
