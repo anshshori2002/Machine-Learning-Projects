@@ -5,3 +5,4 @@ In this repository, There are following Machine Learning Projects are:
 3. Student Marks Prediction
 4. Book Recommender System.
 5. CNN Projects
+6. Cat Dog Classification
