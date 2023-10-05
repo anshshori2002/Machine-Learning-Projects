@@ -1,2 +1,5 @@
 ## Book Recommendation System
-#### Dataset for this project is present in the achieve.zip folder.
+#### It is a System that suggest books to user based on their preferences and behaviour.
+#### These syetem are widely used by online libraries and bookstores to enhance their user's experience.
+ -> Dataset for this project is present in the achieve.zip folder.
+
