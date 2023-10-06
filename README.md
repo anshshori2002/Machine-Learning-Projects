@@ -1,6 +1,6 @@
 # Machine-Learning-Projects
 In this repository, There are following Projects are:
-1. Churn Modelling Predictions
+### 1. Churn Modelling Predictions
 2. Air Quality Predictor
 3. Car price Prediction
 4. Student Marks Prediction
