@@ -7,4 +7,3 @@ In this repository, There are following Projects are:
 5. Book Recommender System.
 6. CNN Projects
 7. Cat Dog Classification
-
