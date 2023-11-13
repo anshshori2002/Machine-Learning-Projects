@@ -6,4 +6,4 @@ In this repository, There are following Projects are:
 4. Student Marks Prediction
 5. Book Recommender System.
 6. CNN Projects
-7. Cat Dog Classification
+7. Cat and Dog Classification
