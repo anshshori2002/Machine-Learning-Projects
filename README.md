@@ -1,5 +1,5 @@
 # Machine-Learning-Projects
-In this repository, There are following Projects are:
+There are following Projectsthat I have worked upon:
 1. Air Quality Predictor
 2. Book Recommender System.
 3. CNN MNIST
