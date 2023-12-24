@@ -1,5 +1,5 @@
 # Machine-Learning-Projects
-There are following Projects that I have worked upon:
+There are following Projects that I have worked upon: 
 1. Air Quality Predictor
 2. Book Recommender System.
 3. CNN MNIST
