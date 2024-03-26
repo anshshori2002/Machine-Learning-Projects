@@ -7,6 +7,3 @@ These are following Projects that I have worked upon:
 5. Cat and Dog Classification
 6. Churn Modelling Predictions
 7. Student Marks Prediction
-
-
-
