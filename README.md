@@ -8,5 +8,4 @@ These are following Projects that I have worked upon:
 6. Churn Modelling Predictions
 7. Student Marks Predictions 
 
-
-
+Updating Soon.........
